@@ -2,6 +2,11 @@
 using namespace std;
 
 #include "ItemToPurchase.h"
+// Christopher Pung
+// This lab prompts the user for two items and creates two new objects for each item and outputs them.
+// Also outputs the total price for purchasing x amount of items at y price.
+
+
 // Instead of stopping at one word, it will store all words and spaces.
 // Does not include \n, tabs, or numbers in words.
 // Input: None.
