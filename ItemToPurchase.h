@@ -18,7 +18,6 @@ class ItemToPurchase{
       int      GetPrice() const;
       int      GetQuantity() const;
       
-      void Print() const;
    private:
       string itemName;
       int itemPrice;
