@@ -1,2 +1,2 @@
-# EE312-Zybook-Labs
-All the labs I have practiced on in my stay for EE 312.
+# EE312-Lab 17.21.
+Part 1 of lab.
